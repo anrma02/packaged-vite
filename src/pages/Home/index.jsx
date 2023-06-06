@@ -1,5 +1,5 @@
 function Home() {
-     return (  <div>dddfasd</div>);
+    return <div className="bg-red-400">dddfasd</div>;
 }
 
 export default Home;
